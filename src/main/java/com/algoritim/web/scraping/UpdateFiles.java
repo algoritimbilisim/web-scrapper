@@ -26,7 +26,7 @@ public class UpdateFiles {
             String[] data = lines.get(i).split(",");
             if (data.length > 1) { // En azından href kolonu olduğundan emin olun
                 String href = data[0];
-                
+
                 Document doc = Jsoup.connect(href).get();
                 String detailName = fetchDetailName(doc);
                 // İlgili satırın 9. sütununa detailName ekleyin
@@ -94,7 +94,7 @@ public class UpdateFiles {
             String src = img.attr("src");
             src = src.replace("https://cdn.dsmcdn.com/mnresize/128/192/", "https://cdn.dsmcdn.com/");
             sb.append(src).append(","); // Eğer birden fazla resim varsa aralarına boşluk koyarak ekleyin
-        }
+            }
 
         return sb.toString().trim();
 

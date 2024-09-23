@@ -20,7 +20,7 @@ import java.io.IOException;
 
 public class ImageDownloader {
 
-    public void DownloadImages(String title) {
+   public void DownloadImages(String title) {
         String csvFile = "cikti/" + title + ".csv";
         String line;
         String cvsSplitBy = ",";
@@ -55,11 +55,11 @@ public class ImageDownloader {
         }
     }
 
-    private static String sanitizeString(String str) {
+    public static String sanitizeString(String str) {
         return str.replaceAll("[^a-zA-Z0-9]", "_").replace(" ", "_");
     }
 
-    private static String getExtensionFromMimeType(String mimeType) {
+    public static String getExtensionFromMimeType(String mimeType) {
         switch (mimeType) {
             case "image/jpeg":
                 return ".jpg";
