@@ -1,0 +1,83 @@
+(dizin)	title	link
+0	Giyim	/kadin-giyim-x-g1-c82
+1	Ayakkabı	/kadin-ayakkabi-x-g1-c114
+2	Aksesuar & Çanta	/kadin-aksesuar-x-g1-c27
+3	Çanta	/kadin-canta-x-g1-c117
+4	İç Giyim	/kadin-ic-giyim-x-g1-c64
+5	Lüks	/sr?wg=1&bu=100161%2C100148&fl=luks-tasarim&sst=BEST_SELLER
+6	Kozmetik	/kozmetik-x-c89
+7	Spor & Outdoor	/sr/kadin-spor-outdoor-x-g1-c104593
+8	Giyim	/erkek-giyim-x-g2-c82
+9	Ayakkabı	/erkek-ayakkabi-x-g2-c114
+10	Kişisel Bakım	/erkek-kozmetik-x-g2-c89
+11	Çanta	/erkek-canta-x-g2-c117
+12	Büyük Beden	/erkek-buyuk-beden-x-g2-c80
+13	Saat & Aksesuar	/erkek-aksesuar-x-g2-c27
+14	İç Giyim	/erkek-ic-giyim-x-g2-c64
+15	Spor & Outdoor	/erkek-spor-outdoor-x-g2-c104593
+16	Elektronik	/elektronik-x-c104024
+17	Lüks & Designer	/sr?wg=2&bu=100161%2C100148&fl=luks-tasarim&sst=BEST_SELLER
+18	Bebek	/bebek-giyim-x-c104158
+19	Kız Çocuk	/sr/cocuk-giyim-x-g3-c82?gag=1-2
+20	Erkek Çocuk	/sr/cocuk-giyim-x-g3-c82?gag=2-2
+21	Bebek Bakım	/anne-bebek-bakim-x-c101414
+22	Oyuncak	/oyuncak-x-c90
+23	Beslenme Emzirme	/beslenme-emzirme-x-c103752
+24	Taşıma & Güvenlik	/cocuk-gerecleri-x-c1355
+25	Bebek Odası	/bebek-odasi-takimi-x-c105325
+26	Sofra & Mutfak	/sofra-mutfak-x-c1354
+27	Banyo	/banyo-x-c104166
+28	Ev Tekstili	/ev-tekstili-x-c94
+29	Ev Dekorasyon	/ev-dekorasyon-x-c95
+30	Aydınlatma	/aydinlatma-x-c1365
+31	Mobilya	/mobilya-x-c1119
+32	Hobi	/hobi-x-c97
+33	Spor & Outdoor	/spor-aletleri-x-c104192
+34	Kitap	/kitap-x-c91
+35	Kırtasiye	/kirtasiye-ofis-malzemeleri-x-c104125
+36	Otomobil & Motosiklet	/otomobil-ve-motosiklet-x-c105777
+37	Yapı Market	/yapi-market-x-c103720
+38	Ev & Temizlik	/ev-bakim-ve-temizlik-x-c105478
+39	Kişisel Bakım	/kozmetik-x-c89
+40	Bebek Bakım	/anne-bebek-bakim-x-c101414
+41	Gıda ve İçecek	/gida-ve-icecek-x-c103946
+42	Atıştırmalık	/atistirmalik-x-c103947
+43	Petshop	/pet-shop-x-c1142
+44	Makyaj	/makyaj-x-c100
+45	Cilt Bakımı	/cilt-bakimi-x-c85
+46	Saç Bakımı	/sac-bakimi-x-c87
+47	Kişisel Bakım	/diger-kisisel-bakim-urunleri-x-c104068
+48	Parfüm & Deodorant	/parfum-ve-deodorant-x-c103717
+49	Saç Şekillendirici	/sac-sekillendirici-urunler-x-c101390
+50	Makyaj Aksesuarları	/makyaj-aksesuarlari-x-c1252
+51	Epilasyon & Tıraş	/tiras-agda-epilasyon-x-c105782
+52	Genel Bakım	/kozmetik-x-c89
+53	Kadın Ayakkabı	/kadin-ayakkabi-x-g1-c114
+54	Erkek Ayakkabı	/erkek-ayakkabi-x-g2-c114
+55	Çocuk Ayakkabı	/cocuk-ayakkabi-x-g3-c114
+56	Çocuk Çanta	/cocuk-canta-x-g3-c117
+57	Erkek Aksesuar	/erkek-aksesuar-x-g2-c27
+58	Kadın Aksesuar	/kadin-aksesuar-x-g1-c27
+59	Kadın Çanta	/kadin-canta-x-g1-c117
+60	Erkek Çanta	/erkek-canta-x-g2-c117
+61	Lüks & Designer	/sr?wc=117%2C114&bu=100161%2C100148&fl=luks-tasarim&sst=BEST_SELLER
+62	Küçük Ev Aletleri	/elektrikli-ev-aletleri-x-c1104
+63	Giyilebilir Teknoloji	/giyilebilir-teknoloji-x-c144430
+64	Telefon	/telefon-x-c104025
+65	Foto & Kamera	/foto-ve-kamera-x-c104037
+66	TV & Görüntü & Ses	/tv-goruntu-ses-sistemleri-x-c104035
+67	Beyaz Eşya	/beyaz-esya-x-c103613
+68	Bilgisayar & Tablet	/bilgisayar-tablet-x-c103660
+69	Kişisel Bakım Aletleri	/kisisel-bakim-aletleri-x-c103109
+70	Oyunculara Özel	/oyunculara-ozel-urunler-y-s10179
+71	Elektronik Aksesuarlar	/elektronik-x-c104024
+72	Klima & Istıcılar	/sr?wc=104078&os=1&sk=1
+73	Spor Üst Giyim	/spor-giyim-x-c101447
+74	Spor Alt Giyim	/spor-giyim-x-c101447
+75	Spor Ayakkabı	/spor-ayakkabi-x-c109
+76	Evde Spor Aletleri	/spor-aletleri-x-c104192
+77	Spor Malzemeleri	/spor-aletleri-x-c104192
+78	Bisiklet	/bisiklet-x-c104580
+79	Fitness Kondisyon	/fitness-ve-kondisyon-x-c104273
+80	Sporcu Besinleri	/sporcu-besini-supplementler-x-c105131
+81	Top	/top-x-c104281
